@@ -59,7 +59,7 @@ Titanic Data Analysis
 Below are some of the key visualizations generated during the analysis:
 
 - **Correlation Heatmap**  
-  ![Correlation Heatmap](images/Correlation_heatmap.png)
+  ![Correlation Heatmap](images/correlation_heatmap.png)
 
 - **Survival Count by Passenger Class**  
   ![Survival Count by Passenger Class](images/Survival_by_Passenger_Class.png)
